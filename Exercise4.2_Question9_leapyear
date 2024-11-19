@@ -1,3 +1,4 @@
+
 /*9. (Program) Years that are evenly divisible by 400 or are evenly divisible by 4 but not by 100
 are leap years. For example, because 1600 is evenly divisible by 400, 1600 was a leap year.
 Similarly, because 1988 is evenly divisible by 4 but not by 100, it was also a leap year. Using
@@ -24,7 +25,7 @@ bool leap;
 	}
 		return 0;
 }
-/*b. How many runs should you make for the program written in Exercise 11a to verify that it’s
+/*b. How many runs should you make for the program written in Exercise 11a to verify that itâ€™s
 operating correctly? What data should you input in each program run?
 
 Answer:
